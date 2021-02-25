@@ -7,7 +7,7 @@ Here is how it looks:
 
 # What am i used ?
   - Tensorflow
-    - Transfer Learning (to get high accuracy, performance with pre-trained models - Mobilenet V2).
+    - Transfer Learning(to get high accuracy, performance with pre-trained models - Mobilenet V2): tensorflow has perfect documentation about it.
   - OpenCV
     - To create user interface
     - To handle input preprocessing.
